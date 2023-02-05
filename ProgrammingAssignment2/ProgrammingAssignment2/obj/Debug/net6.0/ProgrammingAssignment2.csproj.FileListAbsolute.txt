@@ -1,0 +1,15 @@
+C:\Users\lyndo\GitHubProjects\the-matherator\ProgrammingAssignment2\ProgrammingAssignment2\bin\Debug\net6.0\ProgrammingAssignment2.exe
+C:\Users\lyndo\GitHubProjects\the-matherator\ProgrammingAssignment2\ProgrammingAssignment2\bin\Debug\net6.0\ProgrammingAssignment2.deps.json
+C:\Users\lyndo\GitHubProjects\the-matherator\ProgrammingAssignment2\ProgrammingAssignment2\bin\Debug\net6.0\ProgrammingAssignment2.runtimeconfig.json
+C:\Users\lyndo\GitHubProjects\the-matherator\ProgrammingAssignment2\ProgrammingAssignment2\bin\Debug\net6.0\ProgrammingAssignment2.dll
+C:\Users\lyndo\GitHubProjects\the-matherator\ProgrammingAssignment2\ProgrammingAssignment2\bin\Debug\net6.0\ProgrammingAssignment2.pdb
+C:\Users\lyndo\GitHubProjects\the-matherator\ProgrammingAssignment2\ProgrammingAssignment2\obj\Debug\net6.0\ProgrammingAssignment2.csproj.AssemblyReference.cache
+C:\Users\lyndo\GitHubProjects\the-matherator\ProgrammingAssignment2\ProgrammingAssignment2\obj\Debug\net6.0\ProgrammingAssignment2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lyndo\GitHubProjects\the-matherator\ProgrammingAssignment2\ProgrammingAssignment2\obj\Debug\net6.0\ProgrammingAssignment2.AssemblyInfoInputs.cache
+C:\Users\lyndo\GitHubProjects\the-matherator\ProgrammingAssignment2\ProgrammingAssignment2\obj\Debug\net6.0\ProgrammingAssignment2.AssemblyInfo.cs
+C:\Users\lyndo\GitHubProjects\the-matherator\ProgrammingAssignment2\ProgrammingAssignment2\obj\Debug\net6.0\ProgrammingAssignment2.csproj.CoreCompileInputs.cache
+C:\Users\lyndo\GitHubProjects\the-matherator\ProgrammingAssignment2\ProgrammingAssignment2\obj\Debug\net6.0\ProgrammingAssignment2.dll
+C:\Users\lyndo\GitHubProjects\the-matherator\ProgrammingAssignment2\ProgrammingAssignment2\obj\Debug\net6.0\refint\ProgrammingAssignment2.dll
+C:\Users\lyndo\GitHubProjects\the-matherator\ProgrammingAssignment2\ProgrammingAssignment2\obj\Debug\net6.0\ProgrammingAssignment2.pdb
+C:\Users\lyndo\GitHubProjects\the-matherator\ProgrammingAssignment2\ProgrammingAssignment2\obj\Debug\net6.0\ProgrammingAssignment2.genruntimeconfig.cache
+C:\Users\lyndo\GitHubProjects\the-matherator\ProgrammingAssignment2\ProgrammingAssignment2\obj\Debug\net6.0\ref\ProgrammingAssignment2.dll

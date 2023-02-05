@@ -29,7 +29,13 @@ namespace ProgrammingAssignment2
         /// </summary>
         public void PrintOneToTen()
         {
+            for (int i = 1; i <= 10; i++)
+            {
+                Console.Write(i);
+                Console.Write(" ");
+            }
 
+            Console.WriteLine();
         }
 
         /// <summary>
@@ -39,7 +45,13 @@ namespace ProgrammingAssignment2
         /// <param name="n">n</param>
         public void PrintMToN(int m, int n)
         {
+            for (int i = m; i <= n; i++)
+            {
+                Console.Write(i);
+                Console.Write(" ");
+            }
 
+            Console.WriteLine();
         }
 
         /// <summary>
@@ -48,8 +60,24 @@ namespace ProgrammingAssignment2
         /// <returns>tenth even number</returns>
         public int GetTenthEvenNumber()
         {
-            // delete code below; only included so we could compile
-            return -1;
+            int i = 1;
+            int current = 2;
+            int tenth;
+
+
+            while (true)
+            {
+                if (i == 10)
+                {
+                    tenth = current;
+                    break;
+                }
+
+                current += 2;
+                i++;
+            }
+
+            return tenth;
         }
 
         /// <summary>
@@ -59,8 +87,24 @@ namespace ProgrammingAssignment2
         /// <returns>nth even number</returns>
         public int GetNthEvenNumber(int n)
         {
-            // delete code below; only included so we could compile
-            return -1;
+            int i = 1;
+            int current = 2;
+            int nth;
+
+
+            while (true)
+            {
+                if (i == n)
+                {
+                    nth = current;
+                    break;
+                }
+
+                current += 2;
+                i++;
+            }
+
+            return nth;
         }
 
         #endregion
