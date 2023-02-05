@@ -29,13 +29,7 @@ namespace ProgrammingAssignment2
         /// </summary>
         public void PrintOneToTen()
         {
-            for (int i = 1; i <= 10; i++)
-            {
-                Console.Write(i);
-                Console.Write(" ");
-            }
-
-            Console.WriteLine();
+            PrintMToN(1, 10);
         }
 
         /// <summary>
@@ -60,24 +54,7 @@ namespace ProgrammingAssignment2
         /// <returns>tenth even number</returns>
         public int GetTenthEvenNumber()
         {
-            int i = 1;
-            int current = 2;
-            int tenth;
-
-
-            while (true)
-            {
-                if (i == 10)
-                {
-                    tenth = current;
-                    break;
-                }
-
-                current += 2;
-                i++;
-            }
-
-            return tenth;
+            return GetNthEvenNumber(10);
         }
 
         /// <summary>
